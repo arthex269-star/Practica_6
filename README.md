@@ -41,6 +41,26 @@ Tarjeta
 Transferencia
 <img width="1375" height="903" alt="image" src="https://github.com/user-attachments/assets/37dc7e9d-7f31-4985-850c-625ba2334602" />
 
+EJERCICIO 4 Registro de clientes: 
+
+Se nos pidio realizar un Formulario con validación de campos (nombre, teléfono, correo) y ListBox que acumule los clientes registrados.
+
+<img width="1274" height="772" alt="image" src="https://github.com/user-attachments/assets/33a9ccf1-a6af-41d4-bdbf-37f9329b0541" />
+
+<img width="1335" height="810" alt="image" src="https://github.com/user-attachments/assets/eeb21265-2a21-4794-87e4-2787d87b4353" />
+
+<img width="1281" height="777" alt="image" src="https://github.com/user-attachments/assets/3f1ef633-ca20-4376-bbbc-99d7fe0df6c8" />
+
+<img width="1600" height="741" alt="image" src="https://github.com/user-attachments/assets/344e89c8-71ad-46c5-a5ea-f19dd36c79b0" />
+
+<img width="1417" height="809" alt="image" src="https://github.com/user-attachments/assets/8cc88b50-9f23-4bf9-a369-cddfc40a7a52" />
+
+<img width="1394" height="727" alt="image" src="https://github.com/user-attachments/assets/de0dbeb1-0dbe-42e8-a98f-ef59580285b7" />
+
+
+
+
+
 
 
 
