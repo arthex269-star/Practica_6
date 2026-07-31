@@ -27,5 +27,21 @@ Pruebas del ejercicio:
 
 <img width="1137" height="738" alt="image" src="https://github.com/user-attachments/assets/7f828524-ea7b-43b6-8957-9cfc597b59d0" />
 
+EJERCICIO 3: Menudo de colmado
+
+Se nos pidio realizar un ComboBox con productos y precios, TextBox de cantidad y Label que calcule el total con RadioButton para forma de pago.
+
+Pruebas Del Ejercicio Con diferente tipo de pagos: 
+Efectivo
+<img width="1402" height="842" alt="image" src="https://github.com/user-attachments/assets/192211ac-ce65-4647-899a-f501084e35df" />
+
+Tarjeta
+<img width="1489" height="811" alt="image" src="https://github.com/user-attachments/assets/210ec797-655a-408c-8569-c4b7f7f05829" />
+
+Transferencia
+<img width="1375" height="903" alt="image" src="https://github.com/user-attachments/assets/37dc7e9d-7f31-4985-850c-625ba2334602" />
+
+
+
 
 
